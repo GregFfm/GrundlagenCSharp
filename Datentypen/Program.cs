@@ -36,6 +36,8 @@ namespace Datentypen
 
 
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         } // ende Main
         
         enum MyEnum
